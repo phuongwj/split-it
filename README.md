@@ -8,7 +8,7 @@
 
 ## 🤔 About
 
-Split-it is a tool for splitting receipts and managing expenses among groups. It makes it easy to upload a receipt, assign items to people, and quickly see who owes what. **OCR (Optical Character Recognition) support is planned**, so you'll eventually be able to upload a photo of a receipt and have it parsed automatically.
+Split-it is a tool for splitting receipts and managing expenses among groups. It makes it easy to upload a receipt, assign items to people, and quickly see who owes what. **AI-based image scanning support is planned**, so you'll eventually be able to upload a photo of a receipt and have it parsed automatically.
 
 ## 🧱 Project Structure
 
@@ -34,4 +34,4 @@ split-it/
 - **Backend:** FastAPI (Python)
 - **Frontend:** React (Javascript) - coming soon
 - **Dev Environment:** Docker & Docker Compose
-- **OCR for receipt parsing** - coming soon
+- **AI-based image scanning:** - coming soon
